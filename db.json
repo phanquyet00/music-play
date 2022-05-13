@@ -1,0 +1,14 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "phan văn quyết",
+      "description": "học rất ngu"
+    },
+    {
+      "name": "đỗ xào tương 1",
+      "description": "thich ăn đỗ 1",
+      "id": 2
+    }
+  ]
+}
